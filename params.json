@@ -1,0 +1,6 @@
+{
+  "name": "Vanilla Survival server",
+  "tagline": "Play at 217.132.99.112",
+  "body": "## Rules\r\nThe rules are marked with the severity of the \"crime\" like this: [x] is severity x. [x++] is the severity increasing each crime time.\r\n\r\n1. Don't grief [1++]\r\n1. Don't cheat! The cheaters will be banned! [5++]\r\n1. Don't spam chat/ask for admin/etc. [2++]\r\n1. Keep a nice family-friendly chat for eveyone to have fun with. [2, then 3]\r\n1. No offensive skins, names or builds. [4++]\r\n1. Have fun!\r\n\r\n### Punishments:\r\n#### Severity 1:\r\nWarning. The warning is something like `Don't [crime] again! Next time you'll be muted for 10 Hours!`.\r\n#### Severity 2:\r\nMute for 10 hours.\r\n#### Severity 3:\r\nPermanent mute.\r\n#### Severity 4:\r\nKick.\r\n#### Severity 5:\r\nBan for 1 week.\r\n#### Severity 6:\r\nPermanent ban from the server. No coming back until the next server reset, at `December 25-31 2017`.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
